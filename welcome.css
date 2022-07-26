@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    background-image: url(/images/dash.jpg);
+    background-size:cover
+}
+
+.container{
+    
+   margin-top: 50px;
+   
+    
+}
+
+
+
+/* .log{
+    background-color: yellow;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    
+} */
+
+.reg{
+    
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.link{
+    margin-top: 400px;
+    font-weight: bolder;
+    /* margin-left: 50px; */
+}
+
+.ali:hover{
+    color: white;
+}
+
+.links{
+    margin-top: 400px;
+    font-weight: bolder;
+    margin-left: 200px;
+}
+
+.alis:hover{
+    color: red;
+}
+
+h1{
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+h2{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+}
